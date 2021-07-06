@@ -26,7 +26,7 @@ body
 .track
 {
     height: 41vh;
-    width: 400vw;
+    width: 500vw;
     position: absolute;
     background-image: url('track.png');
    /* background-size: cover;*/
