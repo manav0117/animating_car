@@ -8,7 +8,7 @@ body
 }
 .sky
 {
-    width:200vw;
+    width:400vw;
     height: 100vh;
     position: absolute;
     background-image: url('background.jpg');
